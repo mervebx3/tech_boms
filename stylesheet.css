@@ -53,7 +53,7 @@ button{
 .lol{
 	padding-left: 100px;
 	margin-right: 30px;
-	border-color: crimson;
+	
 }
 
 
@@ -63,6 +63,5 @@ button{
 	height: 300px;
 	width: 200px; 
 	background-color: chocolate;
-	border: 4px;
-	border-color: crimson;
+	
 }
